@@ -1,7 +1,9 @@
 # _tex.sc-extractor
 extract images from supercell _tex.sc files.
+
+this was made for educational purposes to understand how the sprites are packed in a single, small binary file.
 # tests
-it was tested on Huawei device (android 8) and extracted images from ui_tex.sc of brawl stars latest version in 21 seconds.
+it was tested on Huawei device (android 8) and extracted images from ui_tex.sc of the latest version in 21 seconds.
 # Note
 the input file should be decompressed.
 # others 
@@ -9,4 +11,4 @@ I used loop method for tags 27 and 28 from [sc-extract](https://github.com/Arius
 # 🌟
 give a star to this repo because why not
 # issues, questions, whatever, my discord server exists for that
-[Join](https://discord.gg/b2ejYcJjqA)
+[Join](https://discord.peterr.dev)
